@@ -5,7 +5,7 @@ The converter currently only supports Tiny YOLO_v2 style models and reference mo
 
 ### Installation
 ```bash
-virtualenv -p /usr/local/bin/python yoloml
+virtualenv -p /usr/bin/python yoloml
 source yoloml/bin/activate
 pip install coremltools
 pip install configparser
